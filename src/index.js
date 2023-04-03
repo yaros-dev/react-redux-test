@@ -54,6 +54,10 @@ document.getElementById('rnd').addEventListener('click', () => {
 
 
 
+// let state = reducer(initialState, { type: 'INC' });
+// state = reducer(state, { type: 'INC' });
+// state = reducer(state, { type: 'INC' });
+// state = reducer(state, { type: 'INC' });
 
 
 
